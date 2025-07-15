@@ -16,7 +16,7 @@ python3 port_scanner_servico.py
 
 O script pedirá o IP ou hostname e o intervalo de portas.
 
-Autor: Matias Lopes
+Autor: Matuto-7
 Data: 14 de Julho de 2025
 """
 
