@@ -8,7 +8,7 @@ Este projeto faz parte da minha evolução prática em segurança, rede e pentes
 
 ## 🚀 **Scripts disponíveis**
 
-🚀 Scripts disponíveis
+🗂️
 
 | Arquivo                  | 🔍 Função                                                       |
 |--------------------------|-----------------------------------------------------------------|
