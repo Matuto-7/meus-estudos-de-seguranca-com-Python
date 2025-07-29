@@ -23,10 +23,6 @@ Este projeto faz parte da minha evolução prática em segurança, rede e pentes
 pkg install python
 2️⃣ rode o script desejado
 
-exemplo: python3 port_scanner_servico.py
-
-O script pedirá o IP ou hostname e o intervalo de portas ou portas específicas (no caso do banner grabbing).
-
 
 ---
 
