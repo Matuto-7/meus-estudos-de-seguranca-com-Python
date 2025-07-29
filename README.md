@@ -12,9 +12,7 @@ Este projeto faz parte da minha evolução prática em segurança, rede e pentes
 |--------------------------|-----------------------------------------------|
 | `port_scanner_servico.py` | Scanner de portas TCP com descrição de serviço |
 | `portas_comuns_scan.py`   | Scanner rápido das portas mais comuns         |
-| `banner_grabber.py`       | Captura de banners de serviços abertos        |  
-| `ghost_sweep.sh            Varredura de IPs               
-vassoura de redes
+| `banner_grabber.py`       | Captura de banners de serviços abertos        |                         
 ---
 
 ## ⚙️ **Como usar**
