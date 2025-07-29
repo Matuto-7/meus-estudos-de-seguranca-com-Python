@@ -8,12 +8,14 @@ Este projeto faz parte da minha evolução prática em segurança, rede e pentes
 
 ## 🚀 **Scripts disponíveis**
 
-| 📂 Arquivo                | 🔍 Função                                      |
-|--------------------------|-----------------------------------------------|
-| `port_scanner_servico.py` | Scanner de portas TCP com descrição de serviço |
-| `portas_comuns_scan.py`   | Scanner rápido das portas mais comuns         |
-| `banner_grabber.py`       | Captura de banners de serviços abertos        |                         
----
+🚀 Scripts disponíveis
+
+| Arquivo                  | 🔍 Função                                                       |
+|--------------------------|-----------------------------------------------------------------|
+| port_scanner_servico.py  | Scanner de portas TCP com descrição de serviço                 |
+| portas_comuns_scan.py    | Scanner rápido das portas mais comuns                          |
+| banner_grabber.py        | Captura de banners de serviços abertos                         |
+| ip_sweeper.py            | Descobre quais IPs estão ativos na rede local via ping         |
 
 ## ⚙️ **Como usar**
 
@@ -26,15 +28,14 @@ pkg install python
 
 ---
 
-💻 Funcionalidades
+---
+📦 Funcionalidades
 
-🔍 Escaneamento de portas TCP
-
-🧩 Identificação dos serviços mais comuns
-
-🛰️ Banner Grabbing (captura de informações dos serviços)
-
-⚡ Multithreading para maior velocidade
+🛠️ Escaneamento de portas TCP  
+🧠 Identificação dos serviços mais comuns  
+🎯 Banner Grabbing (captura de informações dos serviços)  
+⚡ Multithreading para maior velocidade  
+🧹 IP Sweeping (descoberta de hosts ativos na rede local)
 
 ✍️ Autor
 
